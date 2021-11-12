@@ -1,770 +1,83 @@
-Supported games and features:
-[Arsenal]
-> Aimbot with free for all option
-> inf ammo
-> esp
->  Silent Aim
-> Walkspeed, JumpPower
-> inf jump
-> R to fly
-> hitbox extender
-> rejoin
-> serverhop
-[Project XL]
->Auto Attack
->Auto Mob
->Ability Farm
->Auto Newspaper
->Auto Heart
->Auto Eyeball
->Auto Brain
->Auto Accessory
->Auto Specialization
->Auto Mentor
->Auto Armor
->Auto Quest
->WalkSpeed, Jumppower
->Infinite jump
->G noclip
->B fly
->teleport to random player 
->Lag switch F3
->Serverhop 
->rejoin
-[Blox Fruits]
->Money Farm
->Auto farm mobs
->teleports
->Btools
->G noclip
->B fly
->teleport to random player
->Lag Switch F3
->Serverhop
->rejoin
-[Climb 1,000 Stairs]
->Autofarm Automathic
->Autofarm tweening method faster
->Free badges 
->Spam spawn carts
->WalkSpeed, Jumppower
->Btools
->G Noclip
->B fly
->Lag Switch F3
->Server Hop
-[Magnet Simulator]
->Autofarm Coins
->Auto Sell
->Auto Buy Magnets
->Auto Buy Backpacks
->Disable sell screen
->Auto rebrith 
->Auto open Eggs and hats
->Walkspeed, Jumppower
->Btools
->G noclip
->B fly
->Teleport to random player
->Lag Switch F3
->Serverhop
->rejoin
-[Phantom Forces]
->Aimbot
->Fov
->Visible Circle toggle
->Esp
->Silent Aim
->No recoil/Spread
->NoFallDamage
->Full Bright
->KillAura
->Serverhop when kicked
->V walkspeed
->Rejoin
->Serverhop
-[Jailbreak]
->T noclip
-> WalkSpeed, JumpPower
-> Y fly
->gunmods
->anticheat bypasser?
->remove suit
->nowait
->airdrop esp
->infinite jump
->Serverhop
->Rejoin
-[Bad Business]
->Fly
->Autoreload
->Fast Fire Rate
->No recoil
->No spread
->Wallbang
->Sprint Speed
->Rejoin
->ServerHop
-[Adopt me]
-> Baby autofarm
->Pet Farm
->enable and disable no pick up
-> WalkSpeed, JumpPower
-> Buy: Ocean egg, Cracked egg, Regular Egg, Royal egg
-> T noclip
-> Grab all badges
-> Y fly
-> Invisfling
-> Lag Switch f3
-> Teleports
-> free drinks,food
-[Vehicle Legends]
->Autofarm 
->WalkSpeed, Jumppower
->Btools
->G Noclip
->B fly
->Lag Switch F3
->Server Hop
-[TSUNAMI SURVIVAL]
->Autofarm 
->WalkSpeed, Jumppower
->Btools
->G Noclip
->B fly
->Lag Switch F3
->Server Hop
-[Build a boat]
-> Autofarm infinite loop with invis
-> AutoFarm once
-> WalkSpeed, JumpPower
-> Redeem all codes
-> Buy all tools
-> Teleports
-> Morphs
-> Buy chests: Common, Uncommon, Rare, Epic, and  Legendary
-[Zombie Rush]
->Autofarm
->Auto Kill All
->Bring all zombies
->walkspeed, jumppower
->Btools
->G noclip
->B fly
->teleport to random player
->Lagswitch F3
->serverhop
->rejoin
-[Zombie Uprising]
->Hitbox extender
->Slient aim
->walkspeed, jumppower
->Btools
->G noclip
->B fly
->teleport to random player
->Lagswitch F3
->serverhop
->rejoin
-[Soda Legends]
->Autotap
->Get all chests
->auto hoops
->auto coins
->auto open all eggs 
->Auto rebith
->walkspeed, jumppower
->Btools
->G noclip
->B fly
->teleport to random player
->Lagswitch F3
->serverhop
->rejoin
-[Bubble Gun Simulator]
->Auto Blow
->Auto Sell
->Auto Upgrade Gum
->Auto Upgrade Flavors
->Walkspeed, JumpPower
->Btools
->G noclip
->B fly
->Teleport to random player
->Lag Switch F3
->Serverhop
-[Knife Simulator]
-> Autofarm infinite loop
-> SilentAim/Aimbot
-> esp
-[Ninja Legends]
->Auto swing
->Auto sell
->Get all elements
->Get all chests
->Get light karme
->Get evil karma
->Auto hoops
->Unlock all islands instantly
->Autofarm all bosses
->Teleport to chi, coins etc
->Auto buy all swords
->Auto buy all belts
->Auto buy ranks
->Auto buy pets
->Auto accepttrade
->Walkspeed, Jumppower
->All teleports
->Btools
->G noclip
->B fly
->Teleport to random player
->Lag switch F3
->Serverhop
->Rejoin
-[Ninja Legends 2]
->Auto Swing
->Auto Sell
->FE invis
->Unlock All planets
->Get all chests
->Auto buy swords
->Auto buy crystals
->Auto all evoluations
->Auto buy skills 
->Auto buy Powers
->Autofarm boss
->teleport to shards
->Auto accepttrade
->All teleports
->Auto buy all pets
->Walkspeed, JumpPower
->Btools
->Teleport to random player
->G noclip
->B fly
->Lag switch F3
->Serverhop
-[Dungeon Quest!]
->Kill Aura
->Kill all
->Start Dungeon
->AutoSpells
->Walkspeed, Jumpower
->P to free cam
->Y to Fly
->Lag switch f3
->Server Hop
->Rejoin
-[Super Bomb Sirvival]
-> Auto Collect
-> Autofarm forever
-> T Noclip
-> Godmode
-> Inf jump
-> Remove arena walls
-> Become bomb head
-> Rejoin
-[Shindo]
->autofarm
->autorank
->jinfarm
->scrollfarm
->warfarm
->rush
->jumps
->charges
->punchs
->walkspeed, Jumppower
->y fly
->t noclip
->Lagswitch f3
->serverhop
->rejoin
-[MM2]
-> Esp
-> Loop coin farm with invis
-> Godmode
-> Y fly
-> go to murder, sherriff
-> T Noclip
-[Natural Disaster Survival]
-> Autofarm forever
-> walkspeed, jumpower
-> Y fly
-> T noclip
-> Teleports
-> teleport to china servers :o
-> Chat Disaster
-> Prewarn disaster
-> Remove Map Parts
-> Btools
-[Elemental Battlegrounds]
-> Xp farm
-> walkspeed, jumpower
-> Y fly
-> T noclip
-> Server Hop
-> rejoin
-[Field Trip Z]
->Give all heal items
->godmode all
->heal yourself
->kill zombies
->walkspeed,jumppower
->T noclip
->Y Fly
-[Dragon Adventures]
-> Autocollect
-> Auto level
->Walkspeed, Jumpower
->Game teleports
->Y Fly
-> Lagswitch f3
->T Noclip
->Serverhop
->Rejoin
-[Vehicle Simulator]
-> Autofarm forever
-> Super car
-> Grab Crates
->walkspeed,jumpower
->Y to Fly
->Tnoclip
->Lagswitch f3
->serverhop
->rejoin
-[Little World]
->xp farm
->Friut farm
->Grab Flag
->Autofarm Common, epic, Legendary chests
->hidename
->Y Fly
-> Lagswitch f3
->T Noclip
->Serverhop
->Rejoin
-[Age Of Heros]
->+rep farm
->-rep farm
->r to hide g to unhide
->Hide and unhide buttons
->Xp farm with invis
->Esp
->Buy All power ups
->Loop upgrade all traits
->X walkspeed
->Jumpower
->Y Fly
-> Lagswitch f3
->Serverhop
->Rejoin
-[Zombies Attack]
->Autofarm
->Esp
->Y Fly
-> Lagswitch f3
->T Noclip
->Serverhop
->Rejoin
-[Muscle Legends]
->Auto strength
->Auto rebirth
->Fe invis
->All teleports
->Auto speed keypress
->Do not disturb
->Auto chests
->Auto join brawl
->Turn small
->Buy blue, green, mythical, frost. inferno, legends, muscle eilte crystals
->walkspeed, Jumpower
->Btools
->G noclip
->B fly
->teleport to random player
->Lag switch f3
->serverhop
->rejoin
-[Cursed Islands]
->Autofarm Forever
->Autofarm once
->auto buy all power ups
->Walkspeed, Jumpower
->T noclip
->Btools
->Y Fly
-> Lagswitch f3
->Serverhop
->Rejoin
-[KAT]
->slient aim
->goto lobby
->esp
-> Lagswitch f3
->Serverhop
->Rejoin
-[Assassin]
->Hitbox CHANGER
->Ctrl click delete
-P for free cam
-Lag switch f3
->Serverhop
->Rejoin
-[Ragdoll Engine]
->Crash Server
->fling retards
->bomb aura
->Map invis
->anti ragdoll
->walkspeed, jumpower
->Btools
->G noclip
->B Fly
->Teleport to random player
->Lagswitch F3
->Rejoin
->Serverhop
-[The Floor Is LAVA]
->Autofarm
->walkspeed, jumppower
->Btools
->T noclip
->B Fly
->teleport to random player
->Lag switch F3
->ServerHop
->Rejoin
-[Legends Of Speed]
->Mega Autofarm 
->walkspeed, jumpower
->Btools
->G Noclip
->B fly
->teleport to random player
->Lagswitch F3
->Serverhop
->Rejoin
-[Elemental Legends]
->Autotap
->AutoRebirth
->AutoSell
->Auto dimmonds
->Buy Common, Habitual, Fossil, Elemental, Bunnyplicous eggs
->Btools
->G noclip
->B fly
->teleport to random player
->Lag switch F3
->serverhop
->Rejoin
-[Mega Easy Obby]
->Autofarm
->Walkspeed, Jumpower
->Btools
->G Noclip
->B fly
->Teleport to random player
->Lag switch f3
->Serverhop
->Rejoin
-[Taping-Gods]
->AutoTap
->Auto boss
->Auto dimaonds
->Auto Upgrades
->Auto rebirth from 1 to 10k
->WalkSpeed, Jumppower
->Btools
->G noclip
->B fly
->teleport to random Player
-Lag switch F3
->Serverhop
-[Break-in-Story]
->Godmode
->Give Bat
->Do funny
->Kill Bad people
->heal others
->give items
->teleports
->walkspeed, jumppower 
->y fly
->T noclip
->Lagswitch
->Server hop
->rejoin
-[The Labyrinth still under development]
-Ore esp
-[Weaponry]
->Silent Aim
->Esp
-[SHOOT OUT!]
->AFK Auto kill all
->Slient Aim
->Gun mods
->Esp
->Walkspeed,Jumppower
->Y Fly
->T Noclip
->Lag switch F3
->Serverhop
->Rejoin
-[Breaking Point]
->Autofarm
->name esp 
->full Bright 
->WalkSpeed, Jumppower
->Btools
->G Noclip
->B fly
->Lag Switch F3
->Server Hop
-[Destruction Simulator]
->Autofarm
->No cooldown
->FE 0 gravity parts
->Antilag No explosions
->Auto Rank
->Auto Levels 
->Auto sell
->Infinite levels , coins
->WalkSpeed, Jumppower
->Btools
->G Noclip
->B fly
->Lag Switch F3
->Server Hop
-[Trade Tower]
->AutoClick
->Anti Afk
->Auto Buy Case
->Walkspeed, Jumpower
->Infinite Jump
->Btools
->G Noclip
->Bfly
->Teleport to random player
->rejoin 
->ServerHop
-[The Asylum]
->HeadLight with settings
->fullbright
->Open /finish everything in chapters
->G Noclip
->B fly
->Rejoin
->Serverhop
-[Green Vile]
->Farm Money
->Walkspeed, Jumpower
->Btools
->G Noclip
->Y Fly
->Teleport to random player
->Lag switch F3
->serverhop
->Rejoin
-[The maze]
->No Fall Damage
->Full Birght
->Walkspeed, Jumpower
->Get Flash Light
->Get Batterys
->Get Rock
->SS Ear Rape
->G Noclip
->B Fly
->Rejoin
->ServerHop
-[Tower Of Hell]
->AutoFarm
->Go to top 
->Godmode
->Infinite Jump
->Walkspeed , Jumpower
->Btools
->G Noclip
->B Fly
->Teleport to random player 
->Lag Switch F3
->ServerHop
->Rejoin
-[Warrior Champions]
->Auto Swing
->Auto sell
->Auto Buy Blade
->Auto Buy DNA
->Auto Buy Classes
->Infinite Jump
->Auto buy all eggs
->Equip best pets
->Walkspeed,jumppower
->Btools
->G Noclip
->B fly
->teleport to ramdom player
->lag switch F3
->Serverhop
->rejoin
-[Be Crushed by a Speeding Wall]
->Wall GodMode
->Autofarm
->Invis
->Get Every tool
->WalkSpeed, Jumppower
->Infinite Jump
->Btools
->G Noclip
->B Fly
->Teleport to random player
->Lag Switch F3
->serverhop
-[Survive The Disasters! Classic]
->Autofarm
->WalkSpeed, Jumppower
->Infinite Jump
->Btools
->G Noclip
->B Fly
->Teleport to random player
->Lag Switch F3
->serverhop
-[Speed Run 4]
->Autofarm
->WalkSpeed, Jumppower
->Infinite Jump
->Btools
->G Noclip
->B Fly
->Teleport to random player
->Lag Switch F3
->serverhop
-[Timber!]
->Autofarm
->Auto Sell
->Auto expand
->WalkSpeed, Jumppower
->Infinite Jump
->Btools
->G Noclip
->B Fly
->Teleport to random player
->Lag Switch F3
->serverhop
-[Demonfall]
->Trinket Farm
->Auto Gourd
->Auto Breathing
->No Attck Delay
->No Fall Damage
->Trinket Esp
->Ore Esp
->Infinite Jump
->Btools
->G noclip
->B fly
->Lag Switch F3
->ServerHop
->Rejoin
-[Car Crushers 2]
->Select car
->AutoFarm
->WalkSpeed,JumpPower
->Btools
->G Noclip
->B Fly
->Teleport to random player
->Lag Switch F3
->Serverhop
->Rejoin
-[DaHood]
->Auto Shoes
->Simple Godmode
->Anti Ragdoll KO
->Infinite Stamina 
->WalkSpeed,JumpPower
->Btools
->G noclip
->Teleport to random player
->Lag Switch F3
->rejoin
->serverhop
-[Wisteria]
->Auto Meditae 
->Kill Aura
->AutoFarm Money
->Auto Tricket
->Fast Attacks
->Infinite breathing
->Walkspeed,JumpPower
->Y Fly
->T noclip
->Rejoin
->Serverhop
-[Creatures of Sonaria]
->Auto Eat
->Infinite Stamina
->Auto Drink
->Auto Shelter
->Btools
->G noclip
->Lag Switch F3
->Serverhop
-[The Final Stand 2]
->Aimbot
->WallCheck
->Fov Visible
->Aimbot Radius
->Zombie Esp
->Full Bright
->Rejoin
->ServerHop
-[Pet Simulator X]
->AutoFarm
->Auto Buy Egg 
->Teleport to location
->G Noclip
->B Fly
->Anti Lag 
->Teleport to randomplayer
->Lag switch F3
->Rejoin
->ServerHop
-[ANT]
->GodMode
->Auto Chests
->Auto Mentor
->Auto Standarditems
->Anti Effects
->Crash server
->Invisibility
->WalkSpeed,JumpPower
->Infinite Jump  
->Be wired 
->G Noclip
->B Fly
->Anti lag 
->Teleport to random player
->Lagswitch F3
->Serverhop
->Rejoin
-[Dragon Blox]
->AutoMob
->Auto Boss
->Auto Rebirth
->Teleport to location
->WalkSpeed,JumpPower
->Infinite Jump  
->G Noclip
->B Fly
->Anti Lag 
->Teleport to randomplayer
->Lag switch F3
->Rejoin
->ServerHop
+[Arsenal] 1
+[Climb 1,000 Stairs] 2
+[Survive the Night] 3
+[World // Zero] 4
+[Vehicle Legends] 5
+[Build a boat] 6
+[Blox Fruits] 7
+[Project XL] 8 
+[Magnet Simulator] 9
+[Jailbreak] 10
+[Adopt me] 11
+[TSUNAMI SURVIVAL] 12
+[Zombie Rush] 13
+[Zombie Uprising] 14
+[Soda Legends] 15
+[Bubble Gun Simulator] 16
+[Knife Simulator] 17
+[Ninja Legends] 18
+[Ninja Legends 2] 19
+[Dungeon Quest!] 20
+[Super Bomb Sirvival] 21
+[Shindo] 22
+[MM2] 23
+[Natural Disaster Survival] 24
+[Elemental Battlegrounds] 25
+[Field Trip Z] 26
+[Dragon Adventures] 27
+[Vehicle Simulator] 28
+[Little World] 29
+[Age Of Heros] 30
+[Zombies Attack] 31
+[Muscle Legends] 32
+[Cursed Islands] 33
+[KAT] 34
+[Assassin] 35
+[Ragdoll Engine] 36
+[The Floor Is LAVA] 37
+[Legends Of Speed] 38
+[Elemental Legends] 39   
+[Mega Easy Obby] 40    
+[Taping-Gods] 41
+[Break-in-Story] 42
+[The Labyrinth] 43
+[Weaponry] 44
+[SHOOT OUT!] 45
+[Breaking Point] 46
+[Destruction Simulator] 47
+[Trade Tower] 48
+[The Asylum] 49
+[Green Vile] 50
+[The maze] 51
+[Tower Of Hell] 52
+[Warrior Champions] 53
+[Be Crushed by a Speeding Wall] 54
+[Survive The Disasters! Classic] 55
+[Speed Run 4] 56
+[Timber!] 57
+[Demonfall] 58
+[Car Crushers 2] 59
+[DaHood] 60
+[Wisteria] 61
+[Creatures of Sonaria] 62
+[The Final Stand 2] 63
+[pet simulator X] 64
+[pet simulator] 65
+[Aut] 66
+[Dragon Blox] 67
+[Rise Of Nations] 68
+[Specter]  69
+[Project-Star] 70
+[Flee the Facility] 71
+[Lumber Tycoon 2] 72
+[Strongest Punch Simulator] 73
+[Meep City] 74
+[Counter Blox] 75
+[YouTube Simulator X] 76
+[Survive the Killer!] 77
+[YBA] 78
+[Project Baki 2] 79
+[Money Simulator X] 80
 [Get all roblox hats]
 https://www.roblox.com/games/2546610365
 https://www.roblox.com/games/3204381131
@@ -772,4 +85,10 @@ https://www.roblox.com/games/4201429814
 https://www.roblox.com/games/1871632192
 https://www.roblox.com/games/5306359293
 https://www.roblox.com/games/6901029464
+https://www.roblox.com/games/7541759836
+https://www.roblox.com/games/6985028626 
+https://www.roblox.com/games/7277488595
+https://www.roblox.com/games/7232621271
+https://www.roblox.com/games/7234162497
+https://www.roblox.com/games/5853107391
 [AND MORE COMING SOON!]
